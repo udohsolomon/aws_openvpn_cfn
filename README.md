@@ -1,4 +1,4 @@
-# Automated OpenVPN Deployment to AWS EC2 instance on an existing VPC
+# OpenVPN Deployment to AWS EC2 on an existing VPC
 
 Deploy secure OpenVPN tunnel to an existing AWS VPC.
 
