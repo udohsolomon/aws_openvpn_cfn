@@ -8,7 +8,7 @@ Open source OpenVPN software. No license required. *Unlimited* simultaneous conn
 
 Here is an __example__ deployment architecture: where previously deployed EC2 instances running in multiple private subnets, and the public subnet deployed OpenVPN bastion provides accessibility through the secure VPN tunnel for the clients.
 
-[![N|Solid](https://raw.githubusercontent.com/tatobi/aws-quickstart-openvpn/master/docs/architecture.png)](https://raw.githubusercontent.com/tatobi/aws-quickstart-openvpn/master/docs/architecture.png)
+[![N|Solid](https://github.com/udohsolomon/aws_openvpn_cfn/blob/master/docs/openvpn.png)](https://github.com/udohsolomon/aws_openvpn_cfn/blob/master/docs/openvpn.png)
 
 ## Features
 
